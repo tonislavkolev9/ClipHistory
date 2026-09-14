@@ -1,0 +1,43 @@
+# Build directory
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+
+# VS Code (personal settings only)
+.vscode/settings.json
+
+# MSVC build artifacts
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.exe
+*.dll
+
+# Misc
+Thumbs.db
+.DS_Store
+
+# Local clipboard history (real personal data — don't commit)
+clips.db
+
+# Python venv /env
+
+ai/.venv/
+ai/.env
+__pycache__/
+.venv/
+.env
